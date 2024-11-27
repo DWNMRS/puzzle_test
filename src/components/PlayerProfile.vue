@@ -1,7 +1,7 @@
 <template>
   <div v-if="player">
     <h1>{{ player.name }}</h1>
-    <p>Информация о игроке{{ player.name }}</p>
+    <p>Информация о игроке{{ player.name }} </p>
   </div>
 </template>
 
